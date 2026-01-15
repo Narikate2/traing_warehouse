@@ -1,15 +1,17 @@
-# glowbyte-warehouse
-Building a data warehouse with SQL-server
+# glowbyte-хранилище
+Создание хранилища данных, используя SQL-server
 
 
-**Objective**
+# ТЗ
 
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+**Цель**
 
-**Specifications**
+Разработайте современное хранилище данных с использованием SQL Server для консолидации данных о продажах, создания аналитических отчетов и принятия обоснованных решений.
 
-Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
-Data Quality: Cleanse and resolve data quality issues prior to analysis.
-Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
-Scope: Focus on the latest dataset only; historization of data is not required.
-Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+**Технические характеристики**
+
+Источники данных: Импортируйте данные из двух систем-источников (ERP и CRM), предоставляемых в виде файлов CSV.
+Качество данных: Очистите и устраните проблемы с качеством данных перед анализом.
+Интеграция: Объедините оба источника в единую, удобную для пользователя модель данных, предназначенную для аналитических запросов.
+Область применения: Сосредоточьтесь только на последнем наборе данных; хронологизация данных не требуется.
+Документация: Предоставьте четкую документацию по модели данных для поддержки как заинтересованных сторон в бизнесе, так и аналитических групп.
