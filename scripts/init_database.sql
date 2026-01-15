@@ -10,7 +10,8 @@
 
 
 use master;
-
+go
+    
 --create database
 create database DataWarehouse;
 go
